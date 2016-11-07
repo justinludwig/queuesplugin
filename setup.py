@@ -11,7 +11,7 @@
 from setuptools import setup, find_packages
 
 PACKAGE = 'TracQueues'
-VERSION = '0.2.0'
+VERSION = '0.2.0-trac1.2'
 
 setup(
     name=PACKAGE, version=VERSION,
